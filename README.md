@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm MaxMaker627
+
+![](https://komarev.com/ghpvc/?username=maxmaker627&color=red)
 
 <!--
 **MaxMaker627/MaxMaker627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
