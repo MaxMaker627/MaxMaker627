@@ -1,4 +1,6 @@
-### Hi there 👋, I'm MaxMaker627
+## Hi there 👋, I'm MaxMaker627
+### Build something that 100 people will love, not just something that 1000 people will like. Brian Chesky
+
 
 ![](https://komarev.com/ghpvc/?username=maxmaker627&color=red)
 
